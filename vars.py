@@ -1,11 +1,11 @@
-#🇳‌🇮‌🇰‌🇭‌🇮‌🇱‌
+#Aashish JaaT 
 # Add your details here and then deploy by clicking on HEROKU Deploy button
 import os
 from os import environ
 
 API_ID = int(environ.get("API_ID", "10165935"))
 API_HASH = environ.get("API_HASH", "4759aa639551e76ef5144fd335b2bbc3")
-BOT_TOKEN = environ.get("BOT_TOKEN", "7647224009:AAGrqPkAbhOP_02k5NBeYt-MyWRtOOag0Uo")
+BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
 OWNER = int(environ.get("OWNER", "6285587641"))
 CREDIT = environ.get("CREDIT", "Aashish JaaT ❤️")
